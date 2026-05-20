@@ -1,0 +1,6 @@
+a = int(input("Enter number 1:"))
+b = int(input("Enter number 2:"))
+print(f"Sum is {a+b}")
+print(f"Difference is {a-b}")
+print(f"Product is {a*b}")
+print(f"Division is {a+b}")

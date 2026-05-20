@@ -1,0 +1,5 @@
+tup1 = (1,2,3,4,5)
+temp_list= list(tup1)
+temp_list[2]= 10
+mod_tup= tuple(temp_list)
+print(mod_tup)
